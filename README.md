@@ -1,4 +1,4 @@
-# AR
+# Augmented Reality Anwendung
 Studienleistung für die Vorlesung "Anwendungsschwerpunkt: Digitalisierung und digitale Gesellschaft"
 Universität Regensburg
 
