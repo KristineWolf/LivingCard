@@ -1,5 +1,2 @@
 # Augmented Reality Anwendung
-Studienleistung für die Vorlesung "Anwendungsschwerpunkt: Digitalisierung und digitale Gesellschaft"
-Universität Regensburg
-
-Judith Amrhein und Kristine Wolf
+An augmented reality application. Change the color of a cube with the german playing card "Blattkönig".
